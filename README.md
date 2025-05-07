@@ -24,12 +24,14 @@ Responsive layout for different screen sizes 📱💻
 
 Demo 🚀
 
-
-
-Uploading Recording 2025-05-07 172727 (1) (1).mp4…
-
-
 ![Screenshot 2025-05-07 172447](https://github.com/user-attachments/assets/29c16dfb-2dce-4262-aed9-93bb976d8749)
+
+
+https://github.com/user-attachments/assets/b4e71932-ce10-4cb7-919a-e0efd346df58
+
+
+
+
 
 
 
